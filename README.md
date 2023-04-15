@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @Santhiyasanthiya
+* 👋 Hi, I’m @Santhiya
 * 👀 I’m interested in Full Stack Development
 * 🌱 I’m currently learning MERN Stack Development
 * 💞️ I’m looking to collaborate on ...
