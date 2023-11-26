@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer - MERN Stack Developer**
 
-- 👨‍💻 All of my projects are available at **https://gleeful-duckanoo-8cd695.netlify.app/**
+- 👨‍💻 All of my projects are available at <a herf="https://santhiya-k-portfolio.vercel.app/#/s">My Portfolio</a>
 
 - 💬 Ask me about **ReatJs, Material-UI, MySql, MongoDB**
 
