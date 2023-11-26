@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Full Stack Developer - MERN Stack Developer**
 
-- 👨‍💻 All of my projects are available at <a href="https://santhiya-k-portfolio.vercel.app/#/s">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://santhiya-k-portfolio.vercel.app/#/s"><bold>My Portfolio</bold></a>
 
 - 💬 Ask me about **ReatJs, Material-UI, MySql, MongoDB**
 
-- 📫 How to reach me [santhiya30032@gmail.com](santhiya30032@gmail.com)
+- 📫 How to reach me  <a href="santhiya30032@gmail.com"><bold>E-MAIL</bold></a>)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17VcNq7FfabBae0gNsllZ6Tq5F_cTqS2v/view?usp=sharing](https://drive.google.com/file/d/17VcNq7FfabBae0gNsllZ6Tq5F_cTqS2v/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bEMbW0WeorNpArpRdfEmbbh-K9yPAG9D/view"><bold>My Resume</bold>  </a>
 
 
 
